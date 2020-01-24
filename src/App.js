@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React, Test Jetbrains...
+          Learn React, Test Jetbrains' Clion
         </a>
       </header>
     </div>

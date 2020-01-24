@@ -78,7 +78,16 @@
       <option name="presentableId" value="Default" />
       <updated>1579894202702</updated>
       <workItem from="1579894216869" duration="1116000" />
+      <workItem from="1579899712429" duration="1590000" />
+      <workItem from="1579901506413" duration="159000" />
     </task>
+    <task id="LOCAL‎۰۰۰۰۱" summary="It will push using 2019.2">
+      <created>1579899774386</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۱" />
+      <updated>1579899774386</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,10 +98,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="It will push using 2019.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="It will push using 2019.2" />
   </component>
 </project>
